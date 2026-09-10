@@ -28,3 +28,8 @@ if __name__ == "__main__":
 
 - Python 3.8+
 - Standard library modules (`asyncio`, `logging`, `dataclasses`, `collections`, etc.)
+
+
+## Installation
+Follow standard installation steps for this language.
+
